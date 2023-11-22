@@ -4,7 +4,12 @@
   padding: 2rem;
   text-align: center;
 }
-
+.pt-25 {
+    padding-top: 25px;
+}
+.mt-25 {
+    margin-top: 25px;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
